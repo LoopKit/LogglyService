@@ -5,10 +5,10 @@
 "Cancel" = "Annulla";
 
 /* The title of the Loggly customer token */
-"Customer Token" = "Token dell'utente";
+"Customer Token" = "Token utente";
 
 /* Button title to delete a service */
-"Delete Service" = "Elimina Servizio";
+"Delete Service" = "Elimina servizio";
 
 /* The default placeholder for required text */
 "Required" = "Necessario";
