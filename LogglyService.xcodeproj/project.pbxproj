@@ -366,6 +366,9 @@
 				ar,
 				cs,
 				hi,
+				ce,
+				hu,
+				uk,
 			);
 			mainGroup = A9C7BE5F22B9A812001F3FB4;
 			productRefGroup = A9C7BE6A22B9A812001F3FB4 /* Products */;
