@@ -73,7 +73,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești sigur că vrei să ștergi acest serviciu?"
+            "value" : "Sunteți sigur că doriți să ștergeți acest serviciu?"
           }
         },
         "ru" : {
@@ -323,7 +323,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Customer Token"
+            "value" : "Token client"
           }
         },
         "ru" : {
@@ -448,7 +448,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge serviciul"
+            "value" : "Ștergeți serviciul"
           }
         },
         "ru" : {
