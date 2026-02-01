@@ -484,7 +484,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete Service"
+            "value" : "删除服务"
           }
         }
       }
