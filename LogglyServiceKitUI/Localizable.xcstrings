@@ -317,7 +317,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetonul clientului"
+            "value" : "Cheia clientului"
           }
         },
         "ru" : {
