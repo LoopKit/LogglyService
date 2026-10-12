@@ -157,7 +157,7 @@ fileprivate extension URLSession {
 
 }
 
-extension OSLogType: CustomStringConvertible {
+extension OSLogType: @retroactive CustomStringConvertible {
 
     public var description: String {
         switch self {
