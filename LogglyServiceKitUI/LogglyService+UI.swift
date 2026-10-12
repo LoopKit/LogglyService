@@ -12,7 +12,7 @@ import LoopKitUI
 import LogglyServiceKit
 import HealthKit
 
-extension LogglyService: ServiceUI {
+extension LogglyService: @retroactive ServiceUI {
     
     public static var image: UIImage? { nil }
 
