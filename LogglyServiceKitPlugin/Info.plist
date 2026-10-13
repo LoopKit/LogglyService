@@ -18,8 +18,10 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>com.loopkit.Loop.ServiceCategory</key>
+	<string>Logging</string>
 	<key>com.loopkit.Loop.ServiceDisplayName</key>
-	<string>Loggly Service</string>
+	<string>Loggly</string>
 	<key>com.loopkit.Loop.ServiceIdentifier</key>
 	<string>LogglyService</string>
 </dict>
