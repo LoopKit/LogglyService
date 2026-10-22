@@ -159,12 +159,6 @@
             "value" : "בטל"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "निरस्त"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -204,7 +198,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -323,7 +317,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetonul clientului"
+            "value" : "Cheia clientului"
           }
         },
         "ru" : {
@@ -430,7 +424,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Service Verwijderen"
+            "value" : "Service verwijderen"
           }
         },
         "pl" : {
